@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TP04_01</string>
+    <string name="msg"> message </string>
+    <string name="calendar">calendrier</string>
+    <string name="action_settings">parametre</string>
+    <string name="titre_section0"> Printemps </string>
+    <string name="titre_section1"> Automne</string>
+    <string name="titre_section2"> Ete </string>
+    <string name="titre_section3"> Hiver </string>
+    <string name="titre_section4"> saisons </string>
+    <string name="tab_text_1">tab1</string>
+    <string name="tab_text_2">tab2</string>
+
+</resources>
